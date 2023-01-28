@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Mi nombre es Sebastián Ariel Mosquera</h1>
+<h1 align="center">Hola 👋, Mi nombre es Sebastián Mosquera</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z4myk&label=Profile%20views&color=0e75b6&style=flat" alt="z4myk" /> </p>
